@@ -1,0 +1,4 @@
+Name,Difficulty,Problem,Step1,Step2,Step3,Step4,Step5,Step6,bProvisional
+Easy_01,Easy,"PROVISÓRIO - Derive f(x) = 4x³ + 2x","Usar a regra da soma: derivar cada termo","A derivada de 4x³ é 12x²","A derivada de 2x é 2","Resultado: f'(x) = 12x² + 2","","",True
+Medium_01,Medium,"PROVISÓRIO - Calcule lim (x->3) de (x² - 9)/(x - 3)","Substituir x = 3 dá 0/0 (indeterminação)","Fatorar: x² - 9 = (x - 3)(x + 3)","Simplificar a fração: sobra (x + 3)","Substituir x = 3: resultado 6","","",True
+Hard_01,Hard,"PROVISÓRIO - Calcule a integral de 0 a 2 de (2x + 1) dx","Encontrar a primitiva: F(x) = x² + x","Calcular F(2) = 4 + 2 = 6","Calcular F(0) = 0","Resultado: F(2) - F(0) = 6","","",True

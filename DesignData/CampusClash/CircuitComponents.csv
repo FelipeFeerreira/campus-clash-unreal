@@ -1,0 +1,6 @@
+Name,DisplayName,Type,Voltage,Resistance
+Source10V,Fonte 10 V,PowerSource,10,0
+Resistor4,Resistor 4 ohm,Resistor,0,4
+Resistor9,Resistor 9 ohm,Resistor,0,9
+Resistor19,Resistor 19 ohm,Resistor,0,19
+Bulb1,Lampada 1 ohm,Bulb,0,1

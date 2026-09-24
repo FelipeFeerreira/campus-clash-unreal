@@ -1,0 +1,6 @@
+Name,Course,PassingScore,ReputationReward,PointType,PointReward,UnlockID
+Circuits_01,Circuits,60,2,None,0,ElectroShock
+Calculus_01,Calculus,60,0,Math,1,CalcBurstPurchase
+CAD_01,CAD,60,0,None,0,BlueprintShield
+Robotics_01,Robotics,60,0,None,0,ScoutDrone
+Thermodynamics_01,Thermodynamics,60,0,Engineering,1,ThermalEfficiencyPurchase

@@ -1,0 +1,7 @@
+Name,MinimumReputation,RequiredQuest,RequiredUnlock,RequiredPuzzle
+Shuttle,0,Q02,None,None
+InitialClubs,5,Q02,None,None
+LibraryTunnels,10,None,ElectroShock,LibraryPower
+RestrictedLab,20,MentorProject,None,None
+EliteClubs,35,ClubProject,None,None
+AuditoriumArchive,60,Q08,None,None
