@@ -30,3 +30,9 @@ To experiment with these modules, use an appropriately licensed Unreal installat
 ## Verification
 
 Source organization and publication contents were reviewed. This extracted repository was not compiled or play-tested. Automated tests in the source need the full Unreal project context. See [verification notes](docs/PORTFOLIO_VALIDATION.md).
+
+---
+
+## License
+
+Original code and design data in this repository are released under the MIT license - see [LICENSE](LICENSE). Unreal Engine template-derived files (for example Source/school/Variant_*), engine code and third-party assets keep their original terms and are not relicensed here.
