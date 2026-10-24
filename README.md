@@ -4,6 +4,13 @@ Selected C++ source and design data from an educational campus prototype built w
 
 > This repository is a source-code study. It does not include the original project's Content assets, maps, Blueprints or a standalone playable build. Cloning it alone does not produce a runnable Unreal project.
 
+| | |
+|:--|:--|
+| **Live demo** | Unreal project — no hosted demo (source study) |
+| **Screenshots** | Pending — see [docs/CAPTURE_GUIDE.md](docs/CAPTURE_GUIDE.md) |
+| **Stack** | Unreal Engine · C++ |
+| **License** | MIT for original code — [LICENSE](LICENSE) |
+
 ## Systems to explore
 
 | Path | Focus |
@@ -32,6 +39,12 @@ To experiment with these modules, use an appropriately licensed Unreal installat
 Source organization and publication contents were reviewed. This extracted repository was not compiled or play-tested. Automated tests in the source need the full Unreal project context. See [verification notes](docs/PORTFOLIO_VALIDATION.md).
 
 ---
+
+## What I would do next
+
+- Capture editor and gameplay screenshots that show which systems are original code.
+- Document the Epic template boundaries file by file so the split is unambiguous.
+- Turn the circuits/calculus hooks into a small standalone Unreal module.
 
 ## License
 
